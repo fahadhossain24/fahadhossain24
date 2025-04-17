@@ -16,7 +16,7 @@
 
 - 🔭 Currently working at **Spark Tech Agency** as a **Backend Developer**
 - 🚀 Passionate about **real-time systems**, **modular architecture**, and **DevOps automation**
-- 🧠 Exploring deeper in **system design**, **scalability**, and **performance engineering**
+- 🧠 Exploring deeper in **system design**, **scalability**, and **performance driven architechture**
 - 🔌 Skilled in seamless **third-party service integrations**, ensuring reliability and smooth interoperability
 - 🛡️ Committed to writing **secure** with a strong focus on **best practices** in authentication, authorization, and data protection
 - 👨‍💻 Love contributing to open-source and building tools that solve real-world problems
