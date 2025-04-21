@@ -90,4 +90,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [10 Best Practices for Ensuring API Security](https://dev.to/fahadhossain24/10-best-practices-for-ensuring-api-security-2n6g)
 - [Understanding TypeScript's Type Inference](https://www.linkedin.com/pulse/understanding-typescripts-type-inference-fahad-hossain-gwmpc/?trackingId=uTL0%2BXHMi28R6d8oLqpsNw%3D%3D)
+- [The Beginner’s Guide to Secure Shell](https://dev.to/fahadhossain24/the-beginners-guide-to-secure-shell-l0p)
 <!-- BLOG-POST-LIST:END -->
